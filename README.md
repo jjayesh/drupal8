@@ -1,2 +1,2 @@
 # drupal8
-Drupal8 Examples
+Drupal8 Example Modules
